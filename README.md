@@ -1,6 +1,6 @@
 # Physical-Computing
 
-#Experiment #1 - Code
+## Experiment #1 - Code
 ```
 const int LED_PIN = 11;
 
