@@ -1,7 +1,7 @@
 # Physical-Computing
 
 ## Experiment #1 - Code
-```
+```c++
 const int LED_PIN = 11;
 
 double squareWave(double radians);
